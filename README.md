@@ -3,7 +3,7 @@
 ![AI](https://img.shields.io/badge/AI-LLM%20Powered-green)
 ![Status](https://img.shields.io/badge/Status-Live-success)
 
-# Sepiru AI – LLM Powered Data Analytics SaaS 🚀
+# Sepiru AI – LLM Powered Data Analytics SaaS
 
 SaaS-based AI-powered data intelligence platform for CSV and Excel datasets.
 
