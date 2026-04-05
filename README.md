@@ -5,9 +5,21 @@
 
 # Sepiru AI – LLM Powered Data Analytics SaaS
 
+Transform raw CSV/Excel data into intelligent insights using LLMs and ML — in seconds.
+
 SaaS-based AI-powered data intelligence platform for CSV and Excel datasets.
 
 🔗 Live Demo: https://sepiru-ai.streamlit.app
+
+## Why Sepiru AI?
+
+Traditional data analysis is time-consuming and requires technical expertise. Sepiru AI simplifies this by enabling users to interact with data using natural language and automated ML-driven insights.
+
+## Use Cases
+- Business data analysis
+- Sales forecasting
+- Academic data exploration
+- Rapid prototyping for data insights
 
 ## Features
 - 📊 Data Profiling
